@@ -1,3 +1,6 @@
 venv/
 .env
 _pycache__/
+*.pyc
+.postman/
+postman/
